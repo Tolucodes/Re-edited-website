@@ -1,0 +1,178 @@
+*{
+	box-sizing: border-box;
+	max-width: 110%;
+	max-height: 120%;
+}
+body{
+	font-family: Arial;
+	padding: 10px solid black;	
+}
+
+
+.header{
+	text-align: center;
+	padding: 30px;
+	background: white;
+}
+.header h1{
+	font-size: 50px;
+	font-style: unset;
+}
+.topnav{
+	overflow: hidden;
+	background: #333;
+	
+}
+.move{
+	float: left;
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: #f2f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.topnav a:hover{
+	background: #ddd;
+	color: black;
+}
+.leftcolumn{
+	float: left;
+	width: 75%;
+
+
+}
+.card{
+	border: 5px solid black;
+	padding: 20px ;
+	margin-top: 20px;
+
+
+
+}
+.rightcolumn{
+	float: left;
+	width: 25%;
+
+
+}
+.footer{
+
+	height: 1000px;
+	text-align: center;
+}
+.change{
+	color: black;
+}
+
+.h5{
+	font-style: italic;
+}
+
+.image{
+	
+	 width: 750px;
+	height: 450px;
+	size: 400px;	
+}
+
+.img{
+	width: 750px;
+	height: 450px;
+	size: 150px;
+	background-blend-mode: color-burn;
+	border: 1px solid grey;
+}
+
+.fakeimg{
+	width: 450px;
+	height: 350px;
+	size: 100px;
+}
+
+.h1{
+	text-align: center;
+}
+
+.REG{
+	color: black;
+	font-size: 20px;
+}
+
+.REG1{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	font color: white;
+}
+
+.reggy{
+	text-align: center;
+	font-family: cursive;
+
+}
+
+.bbody{
+	background-image: url("Images/Regpagepic.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.wide{
+	width: 100%;
+	max-height: 100%;
+}
+
+.pic{
+	width: 60%;
+	height: 15%;
+	size: 24%;
+	padding: 2px;
+	border: 4px solid black;
+	align-items: center;
+}
+
+.button{
+	margin: 7px 0px;
+	color: black;
+	font-size: 15px;
+	padding: 4px 10px;
+	background: grey;
+	font-family: cursive;
+	cursor: pointer;
+	border: 2.5px solid black;
+border-radius: 9px;
+align-self: center;
+}
+
+.button :hover{
+	color: floralwhite;
+}
+
+.butt{
+	max-height: 100%;
+}
+
+.sic{
+	width: 60%;
+	height: 15%;
+	size: 24%;
+	padding: 2px;
+	border: 4px solid black;
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
